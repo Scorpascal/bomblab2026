@@ -1,0 +1,28 @@
+# Private lab materials and recovery copies stay on this computer.
+/private_lab/
+/private_submission/
+
+# Personalized downloads and extracted programs must never be published.
+bomblab*.tar*
+nuclearlab*.tar*
+/bomblab/
+/nuclearlab/
+bomb
+bomb.c
+nuclear
+/README
+/README.txt
+
+# Answers, disassembly, debugger databases, and crash dumps may contain secrets.
+solution*.txt
+bomb.dump
+*.idb
+*.i64
+*.id0
+*.id1
+*.id2
+*.nam
+/core
+/core.[0-9]*
+
+.DS_Store
