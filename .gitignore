@@ -1,6 +1,7 @@
 # Private lab materials and recovery copies stay on this computer.
 /private_lab/
 /private_submission/
+/method.md
 
 # Personalized downloads and extracted programs must never be published.
 bomblab*.tar*
